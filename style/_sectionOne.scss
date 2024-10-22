@@ -1,0 +1,39 @@
+.sectionOne {
+  background-color: #08101e;
+  padding: 20px 0 60px 0;
+  .sectionOneDivMain {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+  }
+  .genaretion {
+    color: #3a68b8;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  .intelligence {
+    color: white;
+    font-size: 55px;
+    font-weight: 800;
+    margin-top: 10px;
+  }
+  .ipsum {
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    opacity: 70%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  .sectionOneImages {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  .sectionOne button {
+    font-size: 22px;
+    font-weight: 600;
+  }
+}
